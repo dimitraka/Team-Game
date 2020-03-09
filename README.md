@@ -11,7 +11,7 @@ Masterchef is a team game, where the players belong to teams and compete each ot
 
 #### Main Class
     Users can:      -Create new players
-                    -See info about players and teams, while     searching by name or by position in the game's table where all players are stored
+                    -See info about players and teams, while searching by name or by position in the game's table where all players are stored
                     -Exit the game
 
 #### Competition Classes
