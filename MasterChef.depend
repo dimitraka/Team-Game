@@ -1,0 +1,224 @@
+# depslib dependency file v1.0
+1526311703 source:c:\users\chrys\desktop\masterchefpartd\player.cpp
+	"Player.h"
+
+1527405427 
+
+1524431775 c:\users\chrys\desktop\masterchefpartd\player.h
+	<iostream>
+	<ctime>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1526311277 source:c:\users\chrys\desktop\masterchefpartd\voting.cpp
+
+1527176490 source:c:\users\chrys\desktop\masterchefpartd\immunitycompetition.cpp
+	"ImmunityCompetition.h"
+
+1527173784 ompetition.h"
+
+1524425908 c:\users\chrys\desktop\masterchefpartd\immunitycompetition.h
+	"Competition.h"
+
+1524422308 on.h"
+
+1524425793 c:\users\chrys\desktop\masterchefpartd\competition.h
+	<string>
+	<iostream>
+	"Player.h"
+	"Team.h"
+	"ImmunityAward.h"
+
+1524422193 ward.h"
+
+1527176562 c:\users\chrys\desktop\masterchefpartd\team.h
+	"Player.h"
+
+1524426032 c:\users\chrys\desktop\masterchefpartd\immunityaward.h
+	"Award.h"
+
+1492454413 c:\users\chrys\desktop\masterchefpartd\award.h
+	<string>
+	<iostream>
+
+1527176546 source:c:\users\chrys\desktop\masterchefpartd\main.cpp
+	"Player.h"
+	"Team.h"
+	"ImmunityCompetition.h"
+	"Voting.h"
+
+1524695231 c:\users\chrys\desktop\masterchefpartd\voting.h
+
+1527176715 source:c:\users\chrys\desktop\masterchefpartd\team.cpp
+	"Team.h"
+
+1526308103 source:c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\masterchefpartd_v1.2\masterchefpartd\player.cpp
+	"Player.h"
+
+1524428175 c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\masterchefpartd_v1.2\masterchefpartd\player.h
+	<iostream>
+	<ctime>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1527173784 source:c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\masterchefpartd_v1.2\masterchefpartd\immunitycompetition.cpp
+	"ImmunityCompetition.h"
+
+1524422308 c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\masterchefpartd_v1.2\masterchefpartd\immunitycompetition.h
+	"Competition.h"
+
+1524422193 c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\masterchefpartd_v1.2\masterchefpartd\competition.h
+	<string>
+	<iostream>
+	"Player.h"
+	"Team.h"
+	"ImmunityAward.h"
+
+1527172962 c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\masterchefpartd_v1.2\masterchefpartd\team.h
+	"Player.h"
+
+1524422432 c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\masterchefpartd_v1.2\masterchefpartd\immunityaward.h
+	"Award.h"
+
+1492450813 c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\masterchefpartd_v1.2\masterchefpartd\award.h
+	<string>
+	<iostream>
+
+1527173850 source:c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\masterchefpartd_v1.2\masterchefpartd\main.cpp
+	"Player.h"
+	"Team.h"
+	"ImmunityCompetition.h"
+	"Voting.h"
+
+1528038940 c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\masterchefpartd_v1.2\masterchefpartd\voting.h
+	<vector>
+	<map>
+	"Vote.h"
+	"Team.h"
+
+1528038938 c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\masterchefpartd_v1.2\masterchefpartd\vote.h
+	<iostream>
+
+1527405427 source:c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\masterchefpartd_v1.2\masterchefpartd\team.cpp
+	"Team.h"
+
+1528054282 source:c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\masterchefpartd_v1.2\masterchefpartd\voting.cpp
+	"Voting.h"
+	"Team.h"
+	<iostream>
+	<vector>
+	<map>
+	<stdlib.h>
+
+1527173784 source:/home/alexandros/Desktop/dimitra/ImmunityCompetition.cpp
+	"ImmunityCompetition.h"
+
+1524422308 /home/alexandros/Desktop/dimitra/ImmunityCompetition.h
+	"Competition.h"
+
+1524422192 /home/alexandros/Desktop/dimitra/Competition.h
+	<string>
+	<iostream>
+	"Player.h"
+	"Team.h"
+	"ImmunityAward.h"
+
+1524428174 /home/alexandros/Desktop/dimitra/Player.h
+	<iostream>
+	<ctime>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1527172962 /home/alexandros/Desktop/dimitra/Team.h
+	"Player.h"
+
+1524422432 /home/alexandros/Desktop/dimitra/ImmunityAward.h
+	"Award.h"
+
+1492450812 /home/alexandros/Desktop/dimitra/Award.h
+	<string>
+	<iostream>
+
+1527173850 source:/home/alexandros/Desktop/dimitra/main.cpp
+	"Player.h"
+	"Team.h"
+	"ImmunityCompetition.h"
+	"Voting.h"
+
+1528038940 /home/alexandros/Desktop/dimitra/Voting.h
+	<vector>
+	<map>
+	"Vote.h"
+	"Team.h"
+
+1528038938 /home/alexandros/Desktop/dimitra/Vote.h
+	<iostream>
+
+1526308102 source:/home/alexandros/Desktop/dimitra/Player.cpp
+	"Player.h"
+
+1527405426 source:/home/alexandros/Desktop/dimitra/Team.cpp
+	"Team.h"
+
+1527173784 source:c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\dimitra\dimitra\immunitycompetition.cpp
+	"ImmunityCompetition.h"
+
+1524422308 c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\dimitra\dimitra\immunitycompetition.h
+	"Competition.h"
+
+1524422192 c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\dimitra\dimitra\competition.h
+	<string>
+	<iostream>
+	"Player.h"
+	"Team.h"
+	"ImmunityAward.h"
+
+1524428174 c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\dimitra\dimitra\player.h
+	<iostream>
+	<ctime>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1527172962 c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\dimitra\dimitra\team.h
+	"Player.h"
+
+1524422432 c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\dimitra\dimitra\immunityaward.h
+	"Award.h"
+
+1492450812 c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\dimitra\dimitra\award.h
+	<string>
+	<iostream>
+
+1527173850 source:c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\dimitra\dimitra\main.cpp
+	"Player.h"
+	"Team.h"
+	"ImmunityCompetition.h"
+	"Voting.h"
+
+1528038940 c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\dimitra\dimitra\voting.h
+	<vector>
+	<map>
+	"Vote.h"
+	"Team.h"
+
+1528038938 c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\dimitra\dimitra\vote.h
+	<iostream>
+
+1526308102 source:c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\dimitra\dimitra\player.cpp
+	"Player.h"
+
+1527405426 source:c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\dimitra\dimitra\team.cpp
+	"Team.h"
+
+1528058991 source:c:\users\nasos\desktop\ΗΜΜΥ\6o ΕΞΑΜΗΝΟ\c++\Εργασια Αντικειμενοστραφης\part d\dimitra\dimitra\voting.cpp
+	"Voting.h"
+	"Team.h"
+	<iostream>
+	<vector>
+	<map>
+	<stdlib.h>
+
